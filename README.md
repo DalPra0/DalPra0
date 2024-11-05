@@ -1,4 +1,4 @@
-# Olá! Eu sou [Seu Nome] 👋
+# Olá! Eu sou Lucas Dal Pra 👋
 
 Bem-vindo ao meu perfil do GitHub! Aqui, você encontrará uma coleção dos meus projetos principais e informações sobre minhas habilidades e interesses em desenvolvimento de software.
 
