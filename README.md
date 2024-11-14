@@ -4,8 +4,6 @@ Bem-vindo ao meu perfil do GitHub! Aqui, você encontrará uma coleção dos meu
 
 ![image](https://github.com/user-attachments/assets/a71223ac-cc4c-4d5a-9d82-b2714bac0605)
 
-<img src="https://github.com/user-attachments/assets/a71223ac-cc4c-4d5a-9d82-b2714bac0605" alt="Imagem de perfil" style="border: 5px solid #000000; border-radius: 10px;"/>
-
 ---
 
 ## 📊 Estatísticas dos Meus Projetos
