@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu perfil do GitHub! Aqui, você encontrará uma coleção dos meus projetos principais e informações sobre minhas habilidades e interesses em desenvolvimento de software.
 
-<img src="![image](https://github.com/user-attachments/assets/a71223ac-cc4c-4d5a-9d82-b2714bac0605)" alt="Texto alternativo" style="border: 5px solid #000000;"/>
+![image](https://github.com/user-attachments/assets/a71223ac-cc4c-4d5a-9d82-b2714bac0605)
 
 ---
 
