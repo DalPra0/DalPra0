@@ -8,8 +8,10 @@ Bem-vindo ao meu perfil do GitHub! Aqui, você encontrará uma coleção dos meu
 
 ## 📊 Estatísticas dos Meus Projetos
 
-![Gráfico de Barras: Quantidade de Projetos](https://github.com/DalPra0/DalPra0/blob/main/imagens/grafico_barras.png?raw=true)
-![Gráfico de Pizza: Distribuição de Linguagens](https://github.com/DalPra0/DalPra0/blob/main/imagens/grafico_pizza.png?raw=true)
+<p align="center">
+  <img src="https://github.com/DalPra0/DalPra0/blob/main/imagens/grafico_barras.png?raw=true" width="45%" alt="Gráfico de Barras: Quantidade de Projetos">
+  <img src="https://github.com/DalPra0/DalPra0/blob/main/imagens/grafico_pizza.png?raw=true" width="45%" alt="Gráfico de Pizza: Distribuição de Linguagens">
+</p>
 
 > **Nota:** Estes gráficos são atualizados automaticamente para refletir as quantidades e linguagens dos meus projetos.
 
