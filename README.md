@@ -1,6 +1,8 @@
 # Olá! Eu sou Lucas Dal Pra 👋
 
 Bem-vindo ao meu perfil do GitHub! Aqui, você encontrará uma coleção dos meus projetos principais e informações sobre minhas habilidades e interesses em desenvolvimento de software.
+![image](https://github.com/user-attachments/assets/a71223ac-cc4c-4d5a-9d82-b2714bac0605)
+
 
 ---
 
@@ -17,10 +19,10 @@ Bem-vindo ao meu perfil do GitHub! Aqui, você encontrará uma coleção dos meu
 
 | Linguagem    | Nível de Experiência | Projetos |
 |--------------|-----------------------|----------|
-| Python       | Intermediário         | 5        |
-| JavaScript   | Avançado              | 3        |
-| C++          | Intermediário         | 2        |
-| HTML/CSS     | Básico                | 4        |
+| Python       | Avançado              | 15       |
+| PHP          | Intermediario         | 3        |
+| C++          | Avançado              | 2        |
+| HTML/CSS     | Intermediario         | 3        |
 
 ---
 
@@ -28,9 +30,9 @@ Bem-vindo ao meu perfil do GitHub! Aqui, você encontrará uma coleção dos meu
 
 Aqui estão alguns dos projetos em que tenho trabalhado recentemente e que melhor demonstram minhas habilidades:
 
-- [**Projeto Calculadoras**](https://github.com/DalPra0/Calculadoras) – Uma coleção de calculadoras para diferentes aplicações.
-- [**Sistema de Gerenciamento de Biblioteca**](https://github.com/DalPra0/SistemaGerenciamentoBiblioteca) – Sistema de gerenciamento de biblioteca com interface gráfica e banco de dados SQLite.
-- [**Jogo da Forca**](https://github.com/DalPra0/JogoForca) – Um jogo de forca em Python com interface customtkinter.
+- [**SpellBound**](https://github.com/DalPra0/Spellbound) – Uma interface para jogar Magic the Gathering online com seus amigos, jogando com cartas reais. Contem aplicação de IA para analizar cartas e decks.
+- [**Jogo da Forca**](https://github.com/DalPra0/JogoDaVelha) – Um jogo de forca em Python com interface customtkinter.
+- [**Connection Blue**](https://github.com/DalPra0/connectionBlue) – O projeto do periodo, integrado com todas as materias.
 
 ---
 
