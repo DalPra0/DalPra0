@@ -16,6 +16,14 @@ Bem-vindo ao meu perfil do GitHub! Aqui, você encontrará uma coleção dos meu
 > **Nota:** Estes gráficos são atualizados automaticamente para refletir as quantidades e linguagens dos meus projetos.
 
 ---
+## 🗓 Ultimo Projeto Finalizado
+
+Esse é o ultimo projeto que trabalhei e finalizei"
+
+- **[Site Acessibilidade](https://github.com/DalPra0/TDEProgWeb)**: Esse projeto foi para a TDE de programação web do meu curso da faculdade, foi um site focado em explicar o motivo da utilização da acessibilidade web.
+- Ele tem um site publicado tambem no link **[Link do Site](https://dalpra0.github.io/TDEProgWeb/)**
+
+---
 
 ## 🛠️ Linguagens e Tecnologias
 
