@@ -49,3 +49,11 @@ Aqui estão alguns dos projetos em que tenho trabalhado recentemente e que melho
 ## 🚀 Último Grande Projeto
 
 - **[RioAlerta](https://github.com/DalPra0/RioAlerta)**: Um projeto vencedor que conquistou o primeiro lugar na categoria Assistência Ambiental e Social no OBT 2023. Criado para monitoramento ambiental, desenvolvido em appinventor.mit.edu.
+
+---
+
+## 📒 Meus estudos
+
+Aqui deixo um repositorio meu onde estou organizando meus estudos, eu estou me aprofundando em algumas linguagens de programação, e aprendendo certas bibliotecas.
+
+- **[Estudos](https://github.com/DalPra0/aprendendo)**: Não tem muito conteudo postado, eu apenas pretendo usar o readme.md e organizar pastas para fazer upload de documentos e pdf's sobre os conteudos.
