@@ -46,9 +46,12 @@ Aqui estão alguns dos projetos em que tenho trabalhado recentemente e que melho
 
 ---
 
-## 🚀 Último Grande Projeto
+## 🚀 Meus Grandes Projetos
 
 - **[RioAlerta](https://github.com/DalPra0/RioAlerta)**: Um projeto vencedor que conquistou o primeiro lugar na categoria Assistência Ambiental e Social no OBT 2023. Criado para monitoramento ambiental, desenvolvido em appinventor.mit.edu.
+
+
+- **[Sistema Operacional](https://github.com/DalPra0/MontandoUmSistemaOperacional)**: Esse projeto eu estou aprendendo a como montar um sistema operacional. Eu quero programar um do zero e um a partir de linux.
 
 ---
 
