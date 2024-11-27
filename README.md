@@ -60,3 +60,4 @@ Aqui estão alguns dos projetos em que tenho trabalhado recentemente e que melho
 Aqui deixo um repositorio meu onde estou organizando meus estudos, eu estou me aprofundando em algumas linguagens de programação, e aprendendo certas bibliotecas.
 
 - **[Estudos](https://github.com/DalPra0/aprendendo)**: Não tem muito conteudo postado, eu apenas pretendo usar o readme.md e organizar pastas para fazer upload de documentos e pdf's sobre os conteudos.
+- **[Livros](https://github.com/DalPra0/MontandoUmSistemaOperacional/tree/main/Livros)**: Um compilado de todos os livros que estou lendo ou que ja li.
