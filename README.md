@@ -6,8 +6,6 @@ Bem-vindo ao meu perfil do GitHub! Aqui, você encontrará uma coleção dos meu
 
 ---
 
-![Descrição](https://raw.githubusercontent.com/DalPra0/DalPra0/main/assets/github-user-contribution.svg)
-
 ---
 
 ## 📊 Estatísticas dos Meus Projetos
