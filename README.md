@@ -1,6 +1,6 @@
 # Olá! Eu sou Lucas Dal Pra 👋
 
-Bem-vindo ao meu perfil do GitHub! Aqui, você encontrará uma coleção dos meus projetos principais e informações sobre minhas habilidades e interesses em desenvolvimento de software.
+Bem-vindo ao meu perfil do GitHub! Eu utilizo ele como um portifolio pessoal para todos os meus projetos. Os mais importantes estão todos com uma documentação completa.
 
 ![image](https://github.com/user-attachments/assets/12bff718-0e5a-4a02-bbd0-95920b783d62)
 
