@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil do GitHub! Aqui, você encontrará uma coleção dos meu
 
 ---
 
-![image](https://github.com/DalPra0/DalPra0/github-user-contribution.svg)
+![Descrição](https://raw.githubusercontent.com/DalPra0/DalPra0/main/assets/github-user-contribution.svg)
 
 ---
 
