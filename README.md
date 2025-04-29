@@ -5,7 +5,11 @@ Bem-vindo ao meu perfil do GitHub! Aqui, você encontrará uma coleção dos meu
 ![image](https://github.com/user-attachments/assets/12bff718-0e5a-4a02-bbd0-95920b783d62)
 
 ---
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 ---
 
 ## 📊 Estatísticas dos Meus Projetos
