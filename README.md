@@ -6,6 +6,10 @@ Bem-vindo ao meu perfil do GitHub! Aqui, você encontrará uma coleção dos meu
 
 ---
 
+![snake gif](https://github.com/DalPra0/DalPra0/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 📊 Estatísticas dos Meus Projetos
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=DalPra0&show_icons=true&theme=radical" height='200px'>
