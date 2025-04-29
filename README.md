@@ -20,8 +20,7 @@ Bem-vindo ao meu perfil do GitHub! Aqui, você encontrará uma coleção dos meu
 
 Esse é o ultimo projeto que trabalhei e finalizei"
 
-- **[Site Acessibilidade](https://github.com/DalPra0/TDEProgWeb)**: Esse projeto foi para a TDE de programação web do meu curso da faculdade, foi um site focado em explicar o motivo da utilização da acessibilidade web.
-- Ele tem um site publicado tambem no link **[Link do Site](https://dalpra0.github.io/TDEProgWeb/)**
+- **[Hello, DalPra](https://github.com/DalPra0/Hello-DalPra)**: Este foi o meu primeiro trabalho com programação em swift, desde que entrei na academy
 
 ---
 
@@ -41,8 +40,9 @@ Esse é o ultimo projeto que trabalhei e finalizei"
 Aqui estão alguns dos projetos em que tenho trabalhado recentemente e que melhor demonstram minhas habilidades:
 
 - [**SpellBound**](https://github.com/DalPra0/Spellbound) – Uma interface para jogar Magic the Gathering online com seus amigos, jogando com cartas reais. Contem aplicação de IA para analizar cartas e decks.
-- [**Jogo da Forca**](https://github.com/DalPra0/JogoDaVelha) – Um jogo de forca em Python com interface customtkinter.
-- [**Connection Blue**](https://github.com/DalPra0/connectionBlue) – O projeto do periodo, integrado com todas as materias.
+- [**Hello, DalPra**](https://github.com/DalPra0/Hello-DalPra) – Um jogo de ritmo feito na apple developer academy.
+- [**Teste de Velocidade de Criptografia**](https://github.com/DalPra0/TesteVelocidadeCriptografia) – Projeto para a materia de Segurança da informação, feito para testar a velocidade de diferentes criptografias de dados.
+- [**Watch Guard**](https://github.com/DalPra0/WatchGuard) - O projeto final da materia de Performance em Sistemas Cyberfisicos.
 
 ---
 
