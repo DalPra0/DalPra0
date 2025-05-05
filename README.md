@@ -25,17 +25,6 @@ Esse é o ultimo projeto que trabalhei e finalizei"
 
 ---
 
-## 🛠️ Linguagens e Tecnologias
-
-| Linguagem    | Nível de Experiência | Projetos |
-|--------------|-----------------------|----------|
-| Python       | Avançado              | 15       |
-| PHP          | Intermediario         | 3        |
-| C++          | Avançado              | 2        |
-| HTML/CSS     | Intermediario         | 3        |
-
----
-
 ## ⭐ Principais Projetos
 
 Aqui estão alguns dos projetos em que tenho trabalhado recentemente e que melhor demonstram minhas habilidades:
