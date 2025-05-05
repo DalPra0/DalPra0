@@ -11,8 +11,8 @@ Bem-vindo ao meu perfil do GitHub! Eu utilizo ele como um portifolio pessoal par
 
 ## 📊 Estatísticas dos Meus Projetos
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DalPra0&show_icons=true&theme=radical" height='200px'>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DalPra0&show_icons=true&theme=radical" height='200px'>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DalPra0&show_icons=true&theme=dark" height='200px'>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DalPra0&show_icons=true&theme=dracula" height='200px'>
 
 > **Nota:** Estes gráficos são atualizados automaticamente para refletir as quantidades e linguagens dos meus projetos.
 
