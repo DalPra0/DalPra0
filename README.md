@@ -25,7 +25,7 @@ Bem-vindo ao meu perfil do GitHub! Eu utilizo ele como um portifolio pessoal par
 ![](https://github-profile-trophy.vercel.app/?username=DalPra0&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DalPra0&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -33,8 +33,6 @@ Bem-vindo ao meu perfil do GitHub! Eu utilizo ele como um portifolio pessoal par
 ---
 [![](https://visitcount.itsvg.in/api?id=DalPra0&icon=0&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
 ## 🗓 Ultimo Projeto Finalizado
 
 Esse é o ultimo projeto que trabalhei e finalizei"
