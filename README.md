@@ -1,4 +1,6 @@
-![Pac-Man-in-pure-SVG](https://github.com/user-attachments/assets/5452d8e6-2bed-440d-a8f0-9ca976269ce5)# Olá! Eu sou Lucas Dal Pra 👋
+![Pac-Man-in-pure-SVG](https://github.com/user-attachments/assets/5452d8e6-2bed-440d-a8f0-9ca976269ce5)
+
+# Olá! Eu sou Lucas Dal Pra 👋
 
 Bem-vindo ao meu perfil do GitHub! Eu utilizo ele como um portifolio pessoal para todos os meus projetos. Os mais importantes estão todos com uma documentação completa.
 
