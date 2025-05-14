@@ -7,7 +7,7 @@ Bem-vindo ao meu perfil do GitHub! Eu utilizo ele como um portifolio pessoal par
 ---
 ![github-user-contribution](https://github.com/user-attachments/assets/d7404fed-6fc9-47d4-9b46-5027c0303bab)
 
-[Uplo<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en"><head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
   <meta charset="UTF-8">
@@ -141,14 +141,6 @@ Bem-vindo ao meu perfil do GitHub! Eu utilizo ele como um portifolio pessoal par
     </svg>
 
   </div>
-
-
-  
-  
-  
-
-
-
 </body></html>ading Pac-Man in pure SVG.html…]()
 
 ---
