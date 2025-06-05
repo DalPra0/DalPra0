@@ -1,4 +1,4 @@
-# Olá! Eu sou Lucas Dal Pra 👋
+# Olá! Eu sou Lucas Dal Pra 🤘
 
 Bem-vindo ao meu perfil do GitHub! Eu utilizo ele como um portifolio pessoal para todos os meus projetos. Os mais importantes estão todos com uma documentação completa.
 
