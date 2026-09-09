@@ -1,84 +1,107 @@
-# Olá! Eu sou Lucas Dal Pra 🤘
+<pre align="center">
+ ██████╗  █████╗ ██╗     ██████╗ ██████╗  █████╗  ██████╗ 
+ ██╔══██╗██╔══██╗██║     ██╔══██╗██╔══██╗██╔══██╗██╔═████╗
+ ██║  ██║███████║██║     ██████╔╝██████╔╝███████║██║██╔██║
+ ██║  ██║██╔══██║██║     ██╔═══╝ ██╔══██╗██╔══██║████╔╝██║
+ ██████╔╝██║  ██║███████╗██║     ██║  ██║██║  ██║╚██████╔╝
+ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ 
+</pre>
 
-Bem-vindo ao meu perfil do GitHub! Eu utilizo ele como um portifolio pessoal para todos os meus projetos. Os mais importantes estão todos com uma documentação completa.
+<h3 align="center">Lucas Dal Pra · iOS & Swift · Apple Developer Academy</h3>
 
-![image](https://github.com/user-attachments/assets/12bff718-0e5a-4a02-bbd0-95920b783d62)
+<p align="center">
+  Ciência da Computação na <strong>PUCPR</strong> · formado na <strong>TECPUC</strong><br/>
+  Construo apps nativos, experimento com IA em produtos reais e documento o que aprendo em público.
+</p>
 
----
-![github-user-contribution](https://github.com/user-attachments/assets/d7404fed-6fc9-47d4-9b46-5027c0303bab)
-
----
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dalpra0) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)  ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
-
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DalPra0&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=DalPra0&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DalPra0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-> **Nota:** Estes gráficos são atualizados automaticamente para refletir as quantidades e linguagens dos meus projetos.
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DalPra0&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&align=center)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DalPra0&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=DalPra0&icon=0&color=13)](https://visitcount.itsvg.in)
-
-## 🗓 Ultimo Projeto Finalizado
-
-Esse é o ultimo projeto que trabalhei e finalizei"
-
-- **[Hello, DalPra](https://github.com/DalPra0/Hello-DalPra)**: Este foi o meu primeiro trabalho com programação em swift, desde que entrei na academy
+<p align="center">
+  <a href="https://instagram.com/dalpra0"><img src="https://img.shields.io/badge/Instagram-@dalpra0-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://github.com/DalPra0"><img src="https://img.shields.io/badge/GitHub-DalPra0-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
 ---
 
-## ⭐ Principais Projetos
+## O que eu faço
 
-Aqui estão alguns dos projetos em que tenho trabalhado recentemente e que melhor demonstram minhas habilidades:
-
-- [**SpellBound**](https://github.com/DalPra0/Spellbound) – Uma interface para jogar Magic the Gathering online com seus amigos, jogando com cartas reais. Contem aplicação de IA para analizar cartas e decks.
-- [**Hello, DalPra**](https://github.com/DalPra0/Hello-DalPra) – Um jogo de ritmo feito na apple developer academy.
-- [**Teste de Velocidade de Criptografia**](https://github.com/DalPra0/TesteVelocidadeCriptografia) – Projeto para a materia de Segurança da informação, feito para testar a velocidade de diferentes criptografias de dados.
-- [**Watch Guard**](https://github.com/DalPra0/WatchGuard) - O projeto final da materia de Performance em Sistemas Cyberfisicos.
-
----
-
-## 🚀 Meus Grandes Projetos
-
-- **[RioAlerta](https://github.com/DalPra0/RioAlerta)**: Um projeto vencedor que conquistou o primeiro lugar na categoria Assistência Ambiental e Social no OBT 2023. Criado para monitoramento ambiental, desenvolvido em appinventor.mit.edu.
-
-
-- **[Sistema Operacional](https://github.com/DalPra0/MontandoUmSistemaOperacional)**: Esse projeto eu estou aprendendo a como montar um sistema operacional. Eu quero programar um do zero e um a partir de linux.
+```text
+    Swift / SwiftUI          apps iOS nativos, Academy, MVVM, SwiftData
+  🧠  IA aplicada              visão computacional, análise de decks/cartas
+  🛠  Backend & automação       Python, Kotlin, GitHub Actions, dotfiles
+  📚  Estudos abertos           repos de aprendizado, desafios e experimentos
+```
 
 ---
 
-## 📒 Meus estudos
+## Atividade recente
 
-Aqui deixo um repositorio meu onde estou organizando meus estudos, eu estou me aprofundando em algumas linguagens de programação, e aprendendo certas bibliotecas.
+<!--START:ACTIVITY-->
+**Último push:** [`GHActions-workshop`](https://github.com/DalPra0/GHActions-workshop) · `Swift` · 21/08/2026
 
-- **[Estudos](https://github.com/DalPra0/aprendendo)**: Não tem muito conteudo postado, eu apenas pretendo usar o readme.md e organizar pastas para fazer upload de documentos e pdf's sobre os conteudos.
-- **[Livros](https://github.com/DalPra0/MontandoUmSistemaOperacional/tree/main/Livros)**: Um compilado de todos os livros que estou lendo ou que ja li.
-- **[SwiftUI Challenge](https://github.com/DalPra0/SwiftUIChallenge)**: Esse é o meu estudo de SwiftUI e Figma, que estou fazendo na apple developer academy.
+> Sem descrição no GitHub.
+
+**Repositórios recentes**
+
+- [`GHActions-workshop`](https://github.com/DalPra0/GHActions-workshop) · Swift · 21/08/2026
+- [`AuthServer`](https://github.com/DalPra0/AuthServer) · Kotlin · 21/08/2026
+- [`dotfiles`](https://github.com/DalPra0/dotfiles) · Shell · 18/08/2026
+- [`mac-customization`](https://github.com/DalPra0/mac-customization) · Shell · 12/08/2026
+- [`testeStreetpass`](https://github.com/DalPra0/testeStreetpass) · Swift · 26/06/2026
+<!--END:ACTIVITY-->
+
+---
+
+## Projetos em destaque
+
+| Projeto | O que é |
+| --- | --- |
+| [**SpellBound**](https://github.com/DalPra0/Spellbound) | Jogue Magic com cartas físicas online — com IA para analisar cartas e decks |
+| [**Hello, DalPra**](https://github.com/DalPra0/Hello-DalPra) | Jogo de ritmo feito na Apple Developer Academy |
+| [**RioAlerta**](https://github.com/DalPra0/RioAlerta) | Monitoramento ambiental — 1º lugar Assistência Ambiental e Social no OBT 2023 |
+| [**Watch Guard**](https://github.com/DalPra0/WatchGuard) | Projeto final de Performance em Sistemas Ciberfísicos |
+| [**Kuruxu**](https://github.com/DalPra0/Kuruxu) | Experimento recente em Swift |
+
+Mais em [**github.com/DalPra0**](https://github.com/DalPra0?tab=repositories).
+
+---
+
+## Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white" alt="Swift"/>
+  <img src="https://img.shields.io/badge/SwiftUI-0A84FF?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+</p>
+
+---
+
+## GitHub
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dist/snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="./dist/snake.svg"/>
+    <img alt="Contribution snake" src="./dist/snake-dark.svg"/>
+  </picture>
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DalPra0&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=00000000" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=DalPra0&theme=transparent&hide_border=true&background=00000000" alt="GitHub streak"/>
+</p>
+
+<!--START:STATS-->
+| Métrica | Valor |
+| --- | --- |
+| Repositórios públicos | **75** |
+| Linguagens mais usadas | `Swift` ×19 · `Python` ×17 · `HTML` ×9 |
+| Atualizado em | 09/09/2026 18:29 UTC |
+<!--END:STATS-->
+
+---
+
+<p align="center"><sub>README atualizado automaticamente · snake + stats via GitHub Actions</sub></p>
