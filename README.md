@@ -7,28 +7,37 @@
  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ 
 </pre>
 
-<h3 align="center">Lucas Dal Pra · iOS & Swift · Apple Developer Academy</h3>
+<p align="center"><code>// curitiba · pr · br</code></p>
+
+<h3 align="center">Lucas Dal Pra Brascher</h3>
 
 <p align="center">
-  Ciência da Computação na <strong>PUCPR</strong> · formado na <strong>TECPUC</strong><br/>
-  Construo apps nativos, experimento com IA em produtos reais e documento o que aprendo em público.
+  <strong>iOS @ Mitel</strong> · <strong>BSI @ PUCPR</strong> · <strong>Swift @ Apple Developer Academy</strong>
 </p>
 
 <p align="center">
+  Desenvolvedor iOS · apps na App Store · ARKit · VoIP/SIP · FamilyControls<br/>
+  Formado no <strong>TECPUC</strong> · palestrante no <strong>NodeBR Curitiba</strong>
+</p>
+
+<p align="center">
+  <a href="https://dalpra0.dev"><img src="https://img.shields.io/badge/portfolio-dalpra0.dev-111111?style=for-the-badge" alt="Portfolio"/></a>
   <a href="https://instagram.com/dalpra0"><img src="https://img.shields.io/badge/Instagram-@dalpra0-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://github.com/DalPra0"><img src="https://img.shields.io/badge/GitHub-DalPra0-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ---
 
-## O que eu faço
+## in a nutshell
 
 ```text
-    Swift / SwiftUI          apps iOS nativos, Academy, MVVM, SwiftData
-  🧠  IA aplicada              visão computacional, análise de decks/cartas
-  🛠  Backend & automação       Python, Kotlin, GitHub Actions, dotfiles
-  📚  Estudos abertos           repos de aprendizado, desafios e experimentos
+    iOS @ Mitel               Swift, SwiftUI, SIP/VoIP, push, Microsoft 365
+  🎓  BSI @ PUCPR              trilha iOS, mobile, cloud e tecnologias emergentes
+  🏛  Apple Developer Academy   ARKit, RealityKit, FamilyControls, App Store
+  📱  produtos publicados       Kuruxu · Dice & Dragons · Bentô · Termo de Bloqueio
 ```
+
+Portfolio completo em **[dalpra0.dev/projects](https://dalpra0.dev/projects)**.
 
 ---
 
@@ -54,13 +63,14 @@
 
 | Projeto | O que é |
 | --- | --- |
-| [**SpellBound**](https://github.com/DalPra0/Spellbound) | Jogue Magic com cartas físicas online — com IA para analisar cartas e decks |
-| [**Hello, DalPra**](https://github.com/DalPra0/Hello-DalPra) | Jogo de ritmo feito na Apple Developer Academy |
-| [**RioAlerta**](https://github.com/DalPra0/RioAlerta) | Monitoramento ambiental — 1º lugar Assistência Ambiental e Social no OBT 2023 |
-| [**Watch Guard**](https://github.com/DalPra0/WatchGuard) | Projeto final de Performance em Sistemas Ciberfísicos |
-| [**Kuruxu**](https://github.com/DalPra0/Kuruxu) | Experimento recente em Swift |
+| [**Kuruxu**](https://dalpra0.dev/projects) | Astronomia Tupi-Guarani em AR — cartas físicas + ARKit para montar constelações |
+| [**Dice & Dragons**](https://dalpra0.dev/projects) | Rolagem de dados para RPG na App Store — SwiftUI + Three.js via JavaScriptCore |
+| [**Termo de Bloqueio**](https://dalpra0.dev/projects) | Bloqueia apps até você vencer o desafio diário — FamilyControls & Screen Time API |
+| [**Bentô**](https://dalpra0.dev/projects) | Collage diário de bentô — publicado na App Store com export pro Instagram |
+| [**Buggy Helps**](https://dalpra0.dev/projects) | Swift Playgrounds sobre golpes digitais — projeto Swift Student Challenge / WWDC26 |
+| [**Rio Alerta**](https://github.com/DalPra0/RioAlerta) | IoT de alerta de enchentes — premiado na OBT, ESP32 + app mobile |
 
-Mais em [**github.com/DalPra0**](https://github.com/DalPra0?tab=repositories).
+Mais case studies e demos em **[dalpra0.dev](https://dalpra0.dev)**.
 
 ---
 
@@ -69,12 +79,14 @@ Mais em [**github.com/DalPra0**](https://github.com/DalPra0?tab=repositories).
 <p align="center">
   <img src="https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white" alt="Swift"/>
   <img src="https://img.shields.io/badge/SwiftUI-0A84FF?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI"/>
+  <img src="https://img.shields.io/badge/UIKit-007AFF?style=flat-square&logo=apple&logoColor=white" alt="UIKit"/>
+  <img src="https://img.shields.io/badge/ARKit-000000?style=flat-square&logo=apple&logoColor=white" alt="ARKit"/>
+  <img src="https://img.shields.io/badge/RealityKit-000000?style=flat-square&logo=apple&logoColor=white" alt="RealityKit"/>
+  <img src="https://img.shields.io/badge/FamilyControls-000000?style=flat-square&logo=apple&logoColor=white" alt="FamilyControls"/>
+  <img src="https://img.shields.io/badge/JavaScriptCore-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScriptCore"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white" alt="Scrum"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 </p>
 
 ---
@@ -104,4 +116,4 @@ Mais em [**github.com/DalPra0**](https://github.com/DalPra0?tab=repositories).
 
 ---
 
-<p align="center"><sub>README atualizado automaticamente · snake + stats via GitHub Actions</sub></p>
+<p align="center"><sub>README atualizado automaticamente · <a href="https://dalpra0.dev">dalpra0.dev</a></sub></p>
