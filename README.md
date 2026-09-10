@@ -44,17 +44,17 @@ Portfolio completo em **[dalpra0.dev/projects](https://dalpra0.dev/projects)**.
 ## Atividade recente
 
 <!--START:ACTIVITY-->
-**Último push:** [`GHActions-workshop`](https://github.com/DalPra0/GHActions-workshop) · `Swift` · 21/08/2026
+**Último push:** [`siteDrinks`](https://github.com/DalPra0/siteDrinks) · `Java` · 10/09/2026
 
 > Sem descrição no GitHub.
 
 **Repositórios recentes**
 
+- [`siteDrinks`](https://github.com/DalPra0/siteDrinks) · Java · 10/09/2026
 - [`GHActions-workshop`](https://github.com/DalPra0/GHActions-workshop) · Swift · 21/08/2026
 - [`AuthServer`](https://github.com/DalPra0/AuthServer) · Kotlin · 21/08/2026
 - [`dotfiles`](https://github.com/DalPra0/dotfiles) · Shell · 18/08/2026
 - [`mac-customization`](https://github.com/DalPra0/mac-customization) · Shell · 12/08/2026
-- [`testeStreetpass`](https://github.com/DalPra0/testeStreetpass) · Swift · 26/06/2026
 <!--END:ACTIVITY-->
 
 ---
@@ -111,7 +111,7 @@ Mais case studies e demos em **[dalpra0.dev](https://dalpra0.dev)**.
 | --- | --- |
 | Repositórios públicos | **75** |
 | Linguagens mais usadas | `Swift` ×19 · `Python` ×17 · `HTML` ×9 |
-| Atualizado em | 09/09/2026 18:38 UTC |
+| Atualizado em | 10/09/2026 10:45 UTC |
 <!--END:STATS-->
 
 ---
