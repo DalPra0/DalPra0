@@ -44,13 +44,13 @@ Portfolio completo em **[dalpra0.dev/projects](https://dalpra0.dev/projects)**.
 ## Atividade recente
 
 <!--START:ACTIVITY-->
-**Último push:** [`MesaRedonda-TrabalhoBackendPUCPR`](https://github.com/DalPra0/MesaRedonda-TrabalhoBackendPUCPR) · `Kotlin` · 12/10/2026
+**Último push:** [`MesaRedonda-TrabalhoBackendPUCPR`](https://github.com/DalPra0/MesaRedonda-TrabalhoBackendPUCPR) · `Kotlin` · 13/10/2026
 
 > Collaborative game-night & shared music-queue backend | Spring Boot/Kotlin, JPA, JWT. PUCPR Back-End final project.
 
 **Repositórios recentes**
 
-- [`MesaRedonda-TrabalhoBackendPUCPR`](https://github.com/DalPra0/MesaRedonda-TrabalhoBackendPUCPR) · Kotlin · 12/10/2026
+- [`MesaRedonda-TrabalhoBackendPUCPR`](https://github.com/DalPra0/MesaRedonda-TrabalhoBackendPUCPR) · Kotlin · 13/10/2026
 - [`siteDrinks`](https://github.com/DalPra0/siteDrinks) · Java · 10/09/2026
 - [`GHActions-workshop`](https://github.com/DalPra0/GHActions-workshop) · Swift · 21/08/2026
 - [`AuthServer`](https://github.com/DalPra0/AuthServer) · Kotlin · 21/08/2026
@@ -111,7 +111,7 @@ Mais case studies e demos em **[dalpra0.dev](https://dalpra0.dev)**.
 | --- | --- |
 | Repositórios públicos | **76** |
 | Linguagens mais usadas | `Swift` ×19 · `Python` ×17 · `HTML` ×9 |
-| Atualizado em | 12/10/2026 14:35 UTC |
+| Atualizado em | 13/10/2026 13:40 UTC |
 <!--END:STATS-->
 
 ---
