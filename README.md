@@ -44,17 +44,17 @@ Portfolio completo em **[dalpra0.dev/projects](https://dalpra0.dev/projects)**.
 ## Atividade recente
 
 <!--START:ACTIVITY-->
-**Último push:** [`MesaRedonda-TrabalhoBackendPUCPR`](https://github.com/DalPra0/MesaRedonda-TrabalhoBackendPUCPR) · `Kotlin` · 15/10/2026
+**Último push:** [`MesaRedonda-TrabalhoBackendPUCPR`](https://github.com/DalPra0/MesaRedonda-TrabalhoBackendPUCPR) · `Kotlin` · 19/11/2026
 
 > Collaborative game-night & shared music-queue backend | Spring Boot/Kotlin, JPA, JWT. PUCPR Back-End final project.
 
 **Repositórios recentes**
 
-- [`MesaRedonda-TrabalhoBackendPUCPR`](https://github.com/DalPra0/MesaRedonda-TrabalhoBackendPUCPR) · Kotlin · 15/10/2026
+- [`MesaRedonda-TrabalhoBackendPUCPR`](https://github.com/DalPra0/MesaRedonda-TrabalhoBackendPUCPR) · Kotlin · 19/11/2026
+- [`Kuruxu`](https://github.com/DalPra0/Kuruxu) · Swift · 18/11/2026
+- [`umaMusicaPorDia`](https://github.com/DalPra0/umaMusicaPorDia) · Swift · 18/11/2026
+- [`Nano04DnDice`](https://github.com/DalPra0/Nano04DnDice) · Swift · 18/11/2026
 - [`siteDrinks`](https://github.com/DalPra0/siteDrinks) · Java · 10/09/2026
-- [`GHActions-workshop`](https://github.com/DalPra0/GHActions-workshop) · Swift · 21/08/2026
-- [`AuthServer`](https://github.com/DalPra0/AuthServer) · Kotlin · 21/08/2026
-- [`dotfiles`](https://github.com/DalPra0/dotfiles) · Shell · 18/08/2026
 <!--END:ACTIVITY-->
 
 ---
@@ -111,7 +111,7 @@ Mais case studies e demos em **[dalpra0.dev](https://dalpra0.dev)**.
 | --- | --- |
 | Repositórios públicos | **76** |
 | Linguagens mais usadas | `Swift` ×19 · `Python` ×17 · `HTML` ×9 |
-| Atualizado em | 18/11/2026 15:12 UTC |
+| Atualizado em | 19/11/2026 15:20 UTC |
 <!--END:STATS-->
 
 ---
